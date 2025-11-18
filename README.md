@@ -68,7 +68,7 @@ Make sure your backend runs on `http://localhost:5000` and frontend on `http://l
 
 ## 👨‍💻 Author
 
-- **Anant Patil** – [@Anant1709-hub](https://github.com/Anant1709-hub)
+- **K Prakash** – [@kprakash18](https://github.com/kprakash18)
 
 ---
 
